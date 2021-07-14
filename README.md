@@ -18,7 +18,7 @@ Account class has relevant methods such as check if account exist or not, create
 About screenshot-
 It contains screenshot class, which contains take screenshot method. It also contains Database folder, where all the screenshots will be present. Screenshot are randomly name, but after every screenshot, filename will be printed on console.
 
-Functionality avaiable-
+Functionality available-
 1> check if account exist
 2> create account
 3> login
