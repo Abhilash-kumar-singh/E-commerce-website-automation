@@ -8,7 +8,7 @@ Packages-
 1>pages
 2>screenshot
 
-Data is imported from json, hence adding Simple json tar file to dependencies is important 
+Data is imported from json, hence adding Simple json jar file to dependencies is important 
 
 
 About pages-
