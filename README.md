@@ -5,8 +5,8 @@ Dependencies required-
 3> Simple json
 
 Packages- 
-pages
-screenshot
+1>pages
+2>screenshot
 
 Data is imported from json, hence adding Simple json tar file to dependencies is important 
 
